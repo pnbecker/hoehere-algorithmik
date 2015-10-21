@@ -1,0 +1,26 @@
+digraph Vergleichsbaum1
+	{
+		rankdir = TB;
+        { rank = same;
+            Y [label="y"];
+            XR [label="x"];
+        };
+        X [label="x"];
+        T1 [label="$T_1$", shape=triangle];
+        T2 [label="$T_2$", shape=triangle];
+        T3 [label="$T_3$", shape=triangle];
+        T1R [label="$T_1$", shape=triangle];
+        YR [label="y"];
+        T2R [label="$T_2$", shape=triangle];
+        T3R [label="$T_3$", shape=triangle];
+
+		Y -> X [arrowhead=none, arrowtail=none];
+		Y -> T3 [arrowhead=none, arrowtail=none];
+		X -> T2 [arrowhead=none, arrowtail=none];
+		X -> T1 [arrowhead=none, arrowtail=none];
+
+		XR -> YR [arrowhead=none, arrowtail=none];
+		XR -> T1R [arrowhead=none, arrowtail=none];
+		YR -> T2R [arrowhead=none, arrowtail=none];
+		YR -> T3R [arrowhead=none, arrowtail=none];
+	}

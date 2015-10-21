@@ -1,0 +1,9 @@
+digraph Vergleichsbaum1
+	{
+        margin="0";
+        rankdir=BT;
+        edge [arrowhead="normal"];
+        node [shape=circle, label=""];
+        
+        4->3;3->2;2->1;
+	}

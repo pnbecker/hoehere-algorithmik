@@ -1,0 +1,17 @@
+digraph Vergleichsbaum1
+	{
+		rankdir = TB;
+        {rank = same;
+            J [label=""];
+            K [shape=none, label=""];
+        };
+        L [shape=triangle, label="$n_{h-1}$", height=2];
+        {rank=same;
+            M [shape=triangle, label="$n_{h-2}$", height=1.6];
+            N [shape=none, label=""];
+        };
+		
+        J -> L [arrowhead=none, arrowtail=none];
+        J -> M [arrowhead=none, arrowtail=none];
+        K -> N [arrowhead=normal, arrowtail=normal, label="$h$"];
+	}

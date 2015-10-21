@@ -1,0 +1,27 @@
+digraph Vergleichsbaum1 {
+    margin="0";
+    rankdir="LR";
+    nodesep=0.75;
+    ranksep=1;
+    node [shape="circle"];
+
+    S1 [label="15"];
+    {
+        rank=same;
+        W1 [shape="box",label="10"];
+        W2 [shape="box",label="15"];
+        W3 [shape="box",label="20"];
+    };
+    {
+        rank=sink;
+        S2 [label="20"];
+    }
+
+    S1 -> W1 [label="10"];
+    S1 -> W2 [label="18"];
+    S1 -> W3 [label="13"];
+
+    S2 -> W3 [label="12"];
+    S2 -> W2 [label="5"];
+    S2 -> W1 [label="20"];
+};

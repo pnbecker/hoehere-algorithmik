@@ -1,0 +1,18 @@
+digraph Vergleichsbaum1
+	{
+		rankdir = TB;
+        A2 [label="$a_2$"];
+        A1 [label="$a_1$"];
+        A3 [label="$a_3$"];
+        B1 [shape=box, label="$(-\infty, a_1)$"]
+        B2 [shape=box, label="$(a_1, a_2)$"];
+        B3 [shape=box, label="$(a_2, a_3)$"];
+        B4 [shape=box, label="$(a_3, \infty)$"];
+
+        A2 -> A1 [arrowhead=none, arrowtail=none];
+        A2 -> A3 [arrowhead=none, arrowtail=none];
+        A1 -> B1 [arrowhead=none, arrowtail=none];
+        A1 -> B2 [arrowhead=none, arrowtail=none];
+        A3 -> B3 [arrowhead=none, arrowtail=none];
+        A3 -> B4 [arrowhead=none, arrowtail=none];
+	}

@@ -1,0 +1,27 @@
+digraph Vergleichsbaum1
+	{
+		rankdir = TB;
+        W [label="Do $\qqaud$ Mo"];
+        N1 [label="Di"];
+        N2 [label="Fr Mi"];
+        N3 [label="So"];
+        B1 [label="Di"];
+        B2 [label="Do"];
+        B3 [label="Fr"];
+        B4 [label="Mi"];
+        B5 [label="Mo"];
+        B6 [label="Sa"];
+        B7 [label="So"];
+        
+        W -> N1 [arrowhead="none", arrowtail="none"];
+        W -> N2 [arrowhead="none", arrowtail="none"];
+        W -> N3 [arrowhead="none", arrowtail="none"];
+
+        N1 -> B1 [arrowhead="none", arrowtail="none"];
+        N1 -> B2 [arrowhead="none", arrowtail="none"];
+        N2 -> B3 [arrowhead="none", arrowtail="none"];
+        N2 -> B4 [arrowhead="none", arrowtail="none"];
+        N2 -> B5 [arrowhead="none", arrowtail="none"];
+        N3 -> B6 [arrowhead="none", arrowtail="none"];
+        N3 -> B7 [arrowhead="none", arrowtail="none"];
+	}

@@ -1,0 +1,26 @@
+digraph Vergleichsbaum1
+	{
+		rankdir = TB;
+		A [label="$a_2 \le a_3$"];
+		B [label="$a_1 \le a_2$"];
+		C [label="$a_1 \le a_3$"];
+		D [shape=box,label="1 2 3"];
+        E [label="$a_1 \le a_3$"];
+        F [shape="box",label="1 3 2"];
+        G [label="$a_2 \le a_1$"];
+		H [shape=box,label="2 1 3"];
+		I [shape=box,label="2 3 1"];
+		J [shape=box,label="3 2 1"];
+		K [shape=box,label="3 1 2"];
+
+		A -> B [label="j"];
+		A -> C [label="n"];
+		B -> D [label="j"];
+		B -> E [label="n"];
+        E -> H [label="j"];
+        E -> I [label="n"];
+		C -> F [label="j"];
+		C -> G [label="n"];
+        G -> J [label="j"];
+        G -> K [label="n"]; 
+	}

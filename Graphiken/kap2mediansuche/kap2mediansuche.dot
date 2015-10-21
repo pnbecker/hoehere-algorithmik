@@ -1,0 +1,33 @@
+digraph Mediansuche
+	{
+        nodesep = .5;
+		rankdir = BT;
+        node [shape=circle, label="", width=.1];
+        { rank=same; a5; b5; c5; d5; e5; f5; g5; }
+        { rank=same; a4; b4; c4; d4; e4; f4; g4; }
+        { node [color=red]; rank=same; a3; b3; c3; d3; e3; f3; g3; }
+        { rank=same; a2; b2; c2; d2; e2; f2; g2; }
+        { rank=same; a1; b1; c1; d1; e1; f1; g1; }
+
+        a1->a2; a2->a3;
+        b1->b2; b2->b3;
+        c1->c2; c2->c3;
+        d1->d2; d2->d3;
+        a3->b3; b3->c3; c3->d3;
+
+
+        d3->d4; d4->d5;
+        e3->e4; e4->e5;
+        f3->f4; f4->f5;
+        g3->g4; g4->g5;
+        d3->e3; e3->f3; f3->g3;
+            
+            
+        a3->a4; a4->a5;
+        b3->b4; b4->b5;
+        c3->c4; c4->c5;
+        e1->e2; e2->e3;
+        f1->f2; f2->f3;
+        g1->g2; g2->g3;
+
+	}

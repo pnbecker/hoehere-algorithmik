@@ -1,0 +1,35 @@
+\chapter*{Einführung}\addcontentsline{toc}{chapter}{Einführung}\markboth{Einführung}{}
+\section*{Algorithmen}\addcontentsline{toc}{section}{Algorithmen}\markright{Algorithmen}
+Bereits in der Grundschule begegnen uns die ersten Algorithmen, z.B. wenn man lernt schriftlich zu multiplizieren. Ein Algorithmus ist kein Computerprogramm, sondern eine Methode um ein Problem zu lösen. Es ist genau -- Schritt für Schritt -- vorgegeben, was zu Lösung des Problems zu tun ist.
+
+Algorithmus ist benannt nach dem persischen Mathematiker Al-Chwarizmi, der im achten und neunten Jahrhundert an der Lösung linearer und quadratischer Gleichungen gearbeitet hat. Aus dem Titel eines seiner Bücher ist der Begriff Algebra entstanden.
+
+Wenn man sich mit Algorithmen beschäftigt, kommt man immer wieder auf die Frage: wann ist ein Algorithmus effizient? Betrachten wir uns beispielhaft die Multiplikation großer Zahlen. Ist es effizient diese Ziffer für Ziffer zu multiplizieren und anschließend zu addieren? Man kann auch anders multiplizieren: Man verdoppelt die Linke der beiden Zahlen und halbiert die rechte (ohne Berücksichtigung des Restes), bis die Rechte Zahl bei 1 angekommen ist. Abschließen streicht man alle Zeilen, bei denen die Rechte Zahl gerade ist. Die verbliebenen Zahlen der linken Seite werden abschließend summiert.
+
+\[
+\begin{tabular}{rr}
+17\quad &\quad 27 \\\hline
+34\quad &\quad 13 \\
+\rlap{------------}68\quad &\quad 6 \\
+136\quad &\quad 3 \\
+272\quad &\quad 1\\\hline\hline
+459
+\end{tabular}
+\]
+
+Es gibt bessere Algorithmen zum Multiplizieren, als der, den wir in der Schule lernen oder den hier vorgestellten. In der Tat ist es aber eine offene Frage, wie effizient man multiplizieren kann und ob dies vielleicht sogar in linearer Zeit (linear im Verhältnis zur Eingabe) geht.
+
+Bei der Beschäftigung mit Algorithmen spielt ihre Effizienz also eine große Rolle. Hierzu braucht man als erstes Methoden um die Effizienz von Algorithmen abschätzen zu können. Diese Methoden sind Kerngebiet dieser Vorlesung. Wenn man die Effizienz von Algorithmen abschätzen kann, wenn man Erfahrung mit der Effizienz verschiedener Algorithmen sammelt, kann man anfangen sich mit der Frage zu beschäftigen, wie sich effiziente Algorithmen entwickeln lassen. Tatsächlich sollte man die Effizienz eines Algorithmus bereits bei seinem Entwurf berücksichtigen.
+
+Zur Entwicklung von mathematischen Methoden, die die Effizienz eines Algorithmus bestimmen, müssen wir erstmal bestimmen, was ein Algorithmus ist, was Effizienz überhaupt bedeutet usw.
+
+Was ein Algorithmus ist haben wir bereits beschrieben. Aber was bedeutet Effizienz? Wir messen Effizienz in der Anzahl der Schritte, die ein Algorithmus braucht um ein Problem zu lösen (Laufzeit) oder auch am Speicherplatz, der für die Berechnung benötigt wird. Einfachheit eines Algorithmus spielt wegen der Wartbarkeit auch oft eine Rolle. Ein einfacher Algorithmus lässt sich auch nach Jahren leichter verstehen, als ein komplexer. In der Praxis mag die Wartbarkeit und daher auch die Einfachheit eine Rolle spielen, in der Vorlesung konzentrieren wir uns auf Effizienz und berücksichtigen sie nicht. Für bestimmte Probleme lassen sich auch untere Schranken definieren. Das heißt man kann bei manchen Problemen beweisen, dass sich das Problem nicht schneller lösen lässt, als ein proportionaler Wert groß ist. Dieser proportionale Wert kann z.B. die Anzahl der Elemente sein, die ein Algorithmus sortieren soll.
+
+\section*{Literatur}\addcontentsline{toc}{section}{Literatur}\markright{Literatur}
+\begin{itemize}
+\item \textbf{Cormen, Leiserson, Rivest, Stein}: \textit{Introduction to Algorithms} ist gut zu lesen, an manchen Stellen vielleicht etwas langatmig. Eigentlich ist es das beste Buch zum Thema dieser Vorlesung.
+\item \textbf{Kleinberg, Tardos}: \textit{Algorithm Design} ist ein neueres Buch. Es behandelt im Wesentlichen Graphenalgorithmen und nicht mehr alle Themen, die Teil dieser Vorlesung sind.
+\item \textbf{Aho, Hopcroft, Ullman}: \textit{The Design and Analysis of Computer Algorithms} ist ein gutes älteres Buch, einer Gruppe von bekannten Autoren.
+\item \textbf{Donald E. Knuth}: \textit{The Art of Computer Programming} ist ein mehrbändiges Werk. Die Bücher von Knuth haben dieses Gebiet begründet.
+\item Es gibt ein Skript zur Vorlesung aus dem Wintersemester 2006/2007. Das Skript wurde von Studenten geschrieben und ist nicht frei von Fehlern! Es bietet aber einen Überblick über die Themen, die hier behandelt werden.
+\end{itemize}

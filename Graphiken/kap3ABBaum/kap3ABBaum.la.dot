@@ -1,0 +1,19 @@
+digraph Vergleichsbaum1
+	{
+		rankdir = TB;
+        A [label="$y_1 \quad y_2 \quad \ldots \quad y_k$"];
+        {rank = same;
+        B [shape=triangle, label="", width=1, height=1];
+        C [shape=triangle, label="", width=1, height=1];
+        D [shape=none, label="", with=1];
+        E [shape=triangle, label="", width=1, height=1];
+        F [shape=triangle, label="", width=1, height=1];
+        }
+
+        A -> B [arrowtail=none, arrowhead=none,];
+        A -> C [arrowtail=none, arrowhead=none,];
+        C -> D [arrowtail=none, arrowhead=none, penwidth=0];
+        D -> E [arrowtail=none, arrowhead=none, penwidth=0];
+        A -> E [arrowtail=none, arrowhead=none,];
+        A -> F [arrowtail=none, arrowhead=none,];
+	}

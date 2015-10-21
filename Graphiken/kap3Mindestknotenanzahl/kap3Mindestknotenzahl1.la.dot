@@ -1,0 +1,20 @@
+digraph Vergleichsbaum1
+	{
+		rankdir = TB;
+		A [label=""];
+		B [label=""];
+        C [shape=box, height=.25, width=.25, label=""];
+        D [shape=box, height=.25, width=.25, label=""];
+        E [label=""];
+        F [label=""];
+        G [shape=box, height=.25, width=.25, label=""];
+        H [shape=box, height=.25, width=.25, label=""];
+        I [shape=box, height=.25, width=.25, label=""];
+		
+		B -> C [arrowhead=none, arrowtail=none];
+		B -> D [arrowhead=none, arrowtail=none];
+		E -> F [arrowhead=none, arrowtail=none];
+		E -> G [arrowhead=none, arrowtail=none];
+		F -> H [arrowhead=none, arrowtail=none];
+		F -> I [arrowhead=none, arrowtail=none];
+	}

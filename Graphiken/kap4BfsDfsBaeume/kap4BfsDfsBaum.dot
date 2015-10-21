@@ -1,0 +1,25 @@
+digraph Vergleichsbaum1
+	{
+        margin="0";
+        rankdir=LR;
+        nodesep="0.4";
+        ranksep="0.75";
+        edge [arrowhead="normal"];
+        node [shape=circle, style="filled", fillcolor=lightgrey, label=""];
+        {rank=min; v [label="v"];};
+        {rank=same; 1; 2; 3};
+        {rank=same; 4; 5;};
+        {rank=sink; 6;};
+        
+        v->1;
+        v->2;
+        v->3;
+        1->2;
+        2->3 [dir="back"];
+        1->4;
+        3->5;
+        3->6;
+        4->6;
+        5->4;
+        5->1;
+	}

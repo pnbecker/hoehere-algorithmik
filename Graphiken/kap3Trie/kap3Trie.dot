@@ -1,0 +1,34 @@
+digraph Vergleichsbaum1
+	{
+        ratio="0.75";size="6.0,4.5";rankdir="TB";margin="0";nodesep="0.1";ranksep="0.1 equally";
+        edge [arrowhead="none", arrowtail="none", fontsize=16, labelfloat="false"];
+
+        ROOT [shape=circle, label="", height=0.2];
+        K1 [label="", shape=point];
+        K2 [label="", shape=point];
+        K3 [label="", shape=point];
+        K4 [label="", shape=point];
+        K5 [label="", shape=point];
+        K6 [label="", shape=point];
+        K7 [shape=point, label=""];
+        KB [shape=point, label=""];
+        B1 [shape=point, label=""];
+        B2 [shape=point, label=""];
+        B3 [shape=point, label=""];
+        B4 [shape=point, label=""];
+        B5 [shape=point, label=""];
+
+        ROOT -> K1 [label="d"];
+        ROOT -> K2 [label="e"];
+        K1 -> K3 [label="a"];
+        K1 -> K4 [label="e"];
+        K1 -> K5 [label=" i"];
+        K2 -> K6 [label=" i"];
+        K6 -> K7 [label=" n"];
+        K7 -> KB [label=" e"];
+        K3 -> B1 [label=" s"];
+        K4 -> B2 [label=" r"];
+        K5 -> B3 [label=" e"];
+        KB -> B4 [label="r"];
+        KB -> B5 [label=" s"];
+	}

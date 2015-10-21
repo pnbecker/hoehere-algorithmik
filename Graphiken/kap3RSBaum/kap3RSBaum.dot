@@ -1,0 +1,57 @@
+digraph RotSchwarzBaum
+	{
+		rankdir = TB;
+        margin = 0;
+        node [style=filled];
+		A [shape=circle, color=black, label=""];
+		B [shape=circle, color=red, label=""];
+		C [shape=circle, color=red, label=""];
+		D [shape=circle, color=black, label=""];
+		E [shape=circle, color=black, label=""];
+		F [shape=circle, color=black, label=""];
+		G [shape=circle, color=black, label=""];
+		H [shape=circle, color=red, label=""];
+		I [shape=circle, color=red, label=""];
+		J [shape=circle, color=red, label=""];
+		K [shape=circle, color=red, label=""];
+		L [shape=circle, color=red, label=""];
+		B1 [shape=box, color=black, label="", width=.3, height=.4];
+		B2 [shape=box, color=black, label="", width=.3, height=.4];
+		B3 [shape=box, color=black, label="", width=.3, height=.4];
+		B4 [shape=box, color=black, label="", width=.3, height=.4];
+		B5 [shape=box, color=black, label="", width=.3, height=.4];
+		B6 [shape=box, color=black, label="", width=.3, height=.4];
+		B7 [shape=box, color=black, label="", width=.3, height=.4];
+		B8 [shape=box, color=black, label="", width=.3, height=.4];
+		B9 [shape=box, color=black, label="", width=.3, height=.4];
+		B10 [shape=box, color=black, label="", width=.3, height=.4];
+		B11 [shape=box, color=black, label="", width=.3, height=.4];
+		B12 [shape=box, color=black, label="", width=.3, height=.4];
+		B13 [shape=box, color=black, label="", width=.3, height=.4];
+
+        A -> B [arrowhead="none", arrowtail="none"];
+        A -> C [arrowhead="none", arrowtail="none"];
+        B -> D [arrowhead="none", arrowtail="none"];
+        B -> E [arrowhead="none", arrowtail="none"];
+        C -> F [arrowhead="none", arrowtail="none"];
+        C -> G [arrowhead="none", arrowtail="none"];
+        D -> H [arrowhead="none", arrowtail="none"];
+        D -> I [arrowhead="none", arrowtail="none"];
+        E -> J [arrowhead="none", arrowtail="none"];
+        E -> B13 [arrowhead="none", arrowtail="none"];
+        F -> K [arrowhead="none", arrowtail="none"];
+        F -> L [arrowhead="none", arrowtail="none"];
+        G -> B1 [arrowhead="none", arrowtail="none"];
+        G -> B2 [arrowhead="none", arrowtail="none"];
+        H -> B3 [arrowhead="none", arrowtail="none"];
+        H -> B4 [arrowhead="none", arrowtail="none"];
+        I -> B5 [arrowhead="none", arrowtail="none"];
+        I -> B6 [arrowhead="none", arrowtail="none"];
+        J -> B7 [arrowhead="none", arrowtail="none"];
+        J -> B8 [arrowhead="none", arrowtail="none"];
+        K -> B9 [arrowhead="none", arrowtail="none"];
+        K -> B10 [arrowhead="none", arrowtail="none"];
+        L -> B11 [arrowhead="none", arrowtail="none"];
+        L -> B12 [arrowhead="none", arrowtail="none"];
+		
+	}

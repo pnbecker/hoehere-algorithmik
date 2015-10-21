@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="29-4.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="StopM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="StopM"
+       style="overflow:visible">
+      <path
+         id="path4085"
+         d="M 0.0,5.65 L 0.0,-5.65"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="StopL"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="StopL"
+       style="overflow:visible">
+      <path
+         id="path4082"
+         d="M 0.0,5.65 L 0.0,-5.65"
+         style="fill:none;fill-opacity:0.75000000;fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.8)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="DistanceEnd"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="DistanceEnd">
+      <g
+         id="g3968">
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1.15;stroke-linecap:square"
+           d="M 0,0 L -2,0"
+           id="path2316" />
+        <path
+           style="fill:#000000;fill-rule:evenodd;stroke:none"
+           d="M 0,0 L -13,4 L -9,0 -13,-4 L 0,0 z "
+           id="path2312" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square"
+           d="M 0,-4 L 0,40"
+           id="path2314" />
+      </g>
+    </marker>
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect3099"
+       is_visible="true"
+       pattern="M 0,5 C 0,2.24 2.24,0 5,0 7.76,0 10,2.24 10,5 10,7.76 7.76,10 5,10 2.24,10 0,7.76 0,5 z"
+       copytype="single_stretched"
+       prop_scale="1"
+       scale_y_rel="false"
+       spacing="0"
+       normal_offset="0"
+       tang_offset="0"
+       prop_units="false"
+       vertical_pattern="false"
+       fuse_tolerance="0" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective3040"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective4765"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.9930504"
+     inkscape:cx="213.49457"
+     inkscape:cy="548.4589"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:object-nodes="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="1002"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:snap-object-midpoints="true"
+     inkscape:object-paths="false"
+     inkscape:snap-smooth-nodes="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:18;font-style:normal;font-weight:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif;font-stretch:normal;font-variant:normal"
+       x="430.22879"
+       y="535.16406"
+       id="text4690"><tspan
+         sodipodi:role="line"
+         id="tspan4692"
+         x="430.22879"
+         y="535.16406"
+         style="-inkscape-font-specification:Bitstream Vera Serif;font-family:Bitstream Vera Serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:18" /></text>
+    <g
+       id="g6313">
+      <path
+         sodipodi:nodetypes="cc"
+         id="path2836"
+         d="m 320.7406,412.37262 69.08675,13.50467"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif" />
+      <path
+         sodipodi:nodetypes="cc"
+         id="path2838"
+         d="m 403.33201,494.96403 -33.53475,33.53474"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif" />
+      <path
+         sodipodi:nodetypes="cc"
+         id="path2840"
+         d="m 287.20586,494.96403 33.53474,33.53474"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:none;stroke:#0000ff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif" />
+      <path
+         sodipodi:nodetypes="cc"
+         id="path2842"
+         d="M 287.20586,494.96403 320.7406,412.37262"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif" />
+      <path
+         sodipodi:nodetypes="cc"
+         id="path2844"
+         d="m 389.82735,425.87729 13.50466,69.08674"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:none;stroke:#ff0000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif" />
+      <g
+         transform="translate(8,4)"
+         id="g5758">
+        <text
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
+           y="416.96091"
+           x="278.27182"
+           id="text6963">
+          <tspan
+             id="tspan6965"
+             y="416.96091"
+             x="278.27182"
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif">α</tspan>
+        </text>
+        <text
+           style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
+           y="419.81445"
+           x="288.33804"
+           id="text6967">
+          <tspan
+             id="tspan6969"
+             y="419.81445"
+             x="288.33804"
+             style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif">1</tspan>
+        </text>
+      </g>
+      <g
+         transform="translate(16,-22)"
+         id="g5728">
+        <text
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
+           y="542.60748"
+           x="300.62054"
+           id="text6971">
+          <tspan
+             id="tspan6973"
+             y="542.60748"
+             x="300.62054"
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif">i</tspan>
+        </text>
+        <text
+           style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
+           y="545.06122"
+           x="306.2587"
+           id="text6975">
+          <tspan
+             id="tspan6977"
+             y="545.06122"
+             x="306.2587"
+             style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif">2m-1</tspan>
+        </text>
+      </g>
+      <g
+         id="g5692">
+        <text
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
+           y="399.50226"
+           x="350.20758"
+           id="text6979">
+          <tspan
+             id="tspan6981"
+             y="399.50226"
+             x="350.20758"
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif">α</tspan>
+        </text>
+        <text
+           style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
+           y="402.35583"
+           x="360.27542"
+           id="text6983">
+          <tspan
+             id="tspan6985"
+             y="402.35583"
+             x="360.27542"
+             style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif">2</tspan>
+        </text>
+      </g>
+      <g
+         transform="translate(-12,20)"
+         id="g5698">
+        <text
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
+           y="419.23203"
+           x="391.66196"
+           id="text6987">
+          <tspan
+             id="tspan6989"
+             y="419.23203"
+             x="391.66196"
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif">i</tspan>
+        </text>
+        <text
+           style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
+           y="421.68579"
+           x="397.29837"
+           id="text6991">
+          <tspan
+             id="tspan6993"
+             y="421.68579"
+             x="397.29837"
+             style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif">2</tspan>
+        </text>
+      </g>
+      <g
+         transform="translate(-6,-4)"
+         id="g5704">
+        <text
+           id="text7037"
+           x="410.06357"
+           y="459.77759"
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif">
+          <tspan
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
+             x="410.06357"
+             y="459.77759"
+             id="tspan7039">α</tspan>
+        </text>
+        <text
+           id="text7041"
+           x="420.13141"
+           y="462.6312"
+           style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif">
+          <tspan
+             style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
+             x="420.13141"
+             y="462.6312"
+             id="tspan7043">3</tspan>
+        </text>
+      </g>
+      <g
+         transform="translate(-22,-4)"
+         id="g5710">
+        <text
+           id="text7053"
+           x="407.56644"
+           y="501.79453"
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif">
+          <tspan
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
+             x="407.56644"
+             y="501.79453"
+             id="tspan7055">i</tspan>
+        </text>
+        <text
+           id="text7057"
+           x="413.20282"
+           y="504.24829"
+           style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif">
+          <tspan
+             style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
+             x="413.20282"
+             y="504.24829"
+             id="tspan7059">3</tspan>
+        </text>
+      </g>
+      <g
+         transform="translate(14,24)"
+         id="g5740">
+        <text
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
+           y="405.72736"
+           x="306.97067"
+           id="text7073">
+          <tspan
+             id="tspan7075"
+             y="405.72736"
+             x="306.97067"
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif">i</tspan>
+        </text>
+        <text
+           style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
+           y="408.18115"
+           x="310.60706"
+           id="text7077">
+          <tspan
+             id="tspan7079"
+             y="408.18115"
+             x="310.60706"
+             style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif">1</tspan>
+        </text>
+      </g>
+      <path
+         id="path3086"
+         d="m 368.45114,528.38116 0.44997,1.1249 1.1249,-0.44996 -0.44996,-1.12491 z m -46.83356,1.1249 1.1249,0.41247 0.44996,-1.08741 -1.1249,-0.44996 z m 42.37144,0.48746 0.37497,1.12491 1.1249,-0.37497 -0.37497,-1.12491 z m -37.83433,1.12491 0.18749,0.075 0.0374,0 0.97491,0.26248 0.29998,-1.12491 -0.93742,-0.29997 -0.0374,0 -0.14999,-0.0374 z m 33.25971,0.11243 0.26248,1.1624 1.1624,-0.26248 -0.26247,-1.1624 z m -28.5726,1.1624 1.1624,0.26248 0.29998,-1.16241 -1.1999,-0.26247 z m 23.96049,-0.26248 -0.0374,0 0.14999,1.1999 0.0374,0 1.1624,-0.22498 -0.22498,-1.1624 z m -19.19839,1.1999 1.1999,0.14999 0.14999,-1.1999 -1.1999,-0.14999 z m 14.39879,-0.67494 0.11243,1.1999 1.16241,-0.11243 -0.075,-1.16241 z m -9.59919,1.1999 1.1999,0.075 0.11243,-1.1999 -1.1999,-0.075 z m 4.87459,-1.01242 -0.0374,0 0.0374,0.41247 0,0.18748 -0.0374,0.59995 0.0374,0 1.1999,-0.0374 -0.0374,-1.1999 z"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif" />
+      <path
+         sodipodi:nodetypes="csssssc"
+         id="path3105"
+         d="m 320.7406,412.37262 c 6.23226,-17.53429 11.84495,0.10547 16.91146,-1.1268 4.59529,-1.11769 5.69448,-9.543 10.82417,-8.61923 4.72073,0.85011 1.99511,9.01077 6.21387,10.42326 4.88514,1.63559 9.35476,-10.22282 14.03133,-8.0179 4.7859,2.25646 0.17023,11.41283 6.41432,13.63044 4.6627,1.65597 14.44347,-13.85414 14.6916,7.2149"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif" />
+      <path
+         sodipodi:nodetypes="cssssszc"
+         id="path3121"
+         d="m 389.82735,425.87729 c 21.12452,1.10977 2.66503,5.94004 5.15272,10.62492 2.79445,5.26262 9.45766,-1.5061 10.22281,5.41209 0.64452,5.82735 -9.27525,5.48595 -7.41656,12.02685 1.49878,5.27433 10.62488,2.60818 11.42552,7.01567 0.81247,4.47265 -6.75213,8.21354 -6.21388,12.82864 0.55384,4.74884 10.16414,5.30729 10.02238,10.62373 -0.14182,5.318 -6.0294,6.56328 -9.68833,10.55484"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif" />
+      <path
+         sodipodi:nodetypes="czzszc"
+         id="path3125"
+         d="m 403.33201,494.96403 c 12.50516,17.92003 -2.09389,8.21929 -5.34524,11.69482 -3.25133,3.47554 6.15591,9.66076 1.80403,13.63045 -4.35188,3.96969 -11.42681,-6.7066 -15.23402,-2.60582 -5.12558,5.52081 1.51927,11.05216 -1.20268,14.03133 -2.72195,2.97917 -10.18574,-6.02529 -13.55684,-3.21556"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif" />
+      <path
+         sodipodi:nodetypes="cssssc"
+         id="path3127"
+         d="m 320.7406,528.49877 c -14.53943,17.01947 -6.43356,-2.1913 -9.74806,-5.00232 -5.48382,-4.65079 -9.25952,9.63238 -12.82865,2.00448 -3.3649,-7.19143 4.63275,-11.43878 -0.8018,-16.23626 -4.39811,-3.88255 -10.79693,8.69356 -13.63042,2.00449 -2.78786,-6.58137 9.4396,-3.24554 3.47419,-16.30513"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif" />
+      <path
+         sodipodi:nodetypes="csszc"
+         id="path3129"
+         d="m 287.20586,494.96403 c -3.48091,-1.27688 -8.36925,-0.74278 -9.08672,-7.94903 -0.96607,-9.70314 10.88653,-5.5975 10.22282,-14.63266 -0.37328,-5.08147 -10.45785,-4.75312 -10.22282,-11.62597 0.23502,-6.87285 11.58083,0.49485 7.06971,-9.38427"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#StopL);font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif" />
+      <path
+         sodipodi:nodetypes="csszsc"
+         id="path3135"
+         d="m 285.18885,451.3721 c -0.35625,-13.03961 11.9728,-3.64318 12.57414,-12.66496 0.36209,-5.43246 -11.31871,-4.02209 -7.617,-11.4255 2.98594,-5.97187 10.42311,2.62641 15.03356,-1.00226 4.61045,-3.62865 -4.2876,-10.73914 0,-13.63042 4.7547,-3.20626 5.73424,11.75387 15.56105,-0.27634"
+         style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#StopL);font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif" />
+      <path
+         transform="matrix(1.1998993,0,0,1.1998993,-222.23422,-79.481948)"
+         d="m 455.5102,409.91321 a 2.9931972,2.9931972 0 1 1 -5.9864,0 2.9931972,2.9931972 0 1 1 5.9864,0 z"
+         sodipodi:ry="2.9931972"
+         sodipodi:rx="2.9931972"
+         sodipodi:cy="409.91321"
+         sodipodi:cx="452.517"
+         id="path3082"
+         style="font-size:15.00125885px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.83340329;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
+         sodipodi:type="arc" />
+      <path
+         transform="matrix(1.1998993,0,0,1.1998993,-153.14748,-65.977285)"
+         sodipodi:type="arc"
+         style="font-size:15.00125885px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.83340329;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
+         id="path3084"
+         sodipodi:cx="452.517"
+         sodipodi:cy="409.91321"
+         sodipodi:rx="2.9931972"
+         sodipodi:ry="2.9931972"
+         d="m 455.5102,409.91321 a 2.9931972,2.9931972 0 1 1 -5.9864,0 2.9931972,2.9931972 0 1 1 5.9864,0 z" />
+      <path
+         d="m 455.5102,409.91321 a 2.9931972,2.9931972 0 1 1 -5.9864,0 2.9931972,2.9931972 0 1 1 5.9864,0 z"
+         sodipodi:ry="2.9931972"
+         sodipodi:rx="2.9931972"
+         sodipodi:cy="409.91321"
+         sodipodi:cx="452.517"
+         id="path3089"
+         style="font-size:15.00125885px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.83340329;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
+         sodipodi:type="arc"
+         transform="matrix(1.1998993,0,0,1.1998993,-139.64282,3.1094607)" />
+      <path
+         transform="matrix(1.1998993,0,0,1.1998993,-173.17757,36.644196)"
+         sodipodi:type="arc"
+         style="font-size:15.00125885px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.83340329;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
+         id="path3091"
+         sodipodi:cx="452.517"
+         sodipodi:cy="409.91321"
+         sodipodi:rx="2.9931972"
+         sodipodi:ry="2.9931972"
+         d="m 455.5102,409.91321 a 2.9931972,2.9931972 0 1 1 -5.9864,0 2.9931972,2.9931972 0 1 1 5.9864,0 z" />
+      <path
+         d="m 455.5102,409.91321 a 2.9931972,2.9931972 0 1 1 -5.9864,0 2.9931972,2.9931972 0 1 1 5.9864,0 z"
+         sodipodi:ry="2.9931972"
+         sodipodi:rx="2.9931972"
+         sodipodi:cy="409.91321"
+         sodipodi:cx="452.517"
+         id="path3093"
+         style="font-size:15.00125885px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.83340329;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
+         sodipodi:type="arc"
+         transform="matrix(1.1998993,0,0,1.1998993,-222.23422,36.644196)" />
+      <path
+         transform="matrix(1.1998993,0,0,1.1998993,-255.76897,3.1094607)"
+         sodipodi:type="arc"
+         style="font-size:15.00125885px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.83340329;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
+         id="path3095"
+         sodipodi:cx="452.517"
+         sodipodi:cy="409.91321"
+         sodipodi:rx="2.9931972"
+         sodipodi:ry="2.9931972"
+         d="m 455.5102,409.91321 a 2.9931972,2.9931972 0 1 1 -5.9864,0 2.9931972,2.9931972 0 1 1 5.9864,0 z" />
+      <g
+         transform="translate(-4,-26)"
+         id="g5722">
+        <text
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
+           y="546.56281"
+           x="365.31989"
+           id="text5416">
+          <tspan
+             id="tspan5418"
+             y="546.56281"
+             x="365.31989"
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif">i</tspan>
+        </text>
+        <text
+           style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
+           y="549.41638"
+           x="370.95627"
+           id="text5420">
+          <tspan
+             id="tspan5422"
+             y="549.41638"
+             x="370.95627"
+             style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif">4</tspan>
+        </text>
+      </g>
+      <g
+         id="g5716">
+        <text
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
+           y="527.40149"
+           x="400.55301"
+           id="text5454">
+          <tspan
+             id="tspan5456"
+             y="527.40149"
+             x="400.55301"
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif">α</tspan>
+        </text>
+        <text
+           style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
+           y="530.25507"
+           x="410.62085"
+           id="text5458">
+          <tspan
+             id="tspan5460"
+             y="530.25507"
+             x="410.62085"
+             style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif">4</tspan>
+        </text>
+      </g>
+      <g
+         transform="translate(6,0)"
+         id="g5752">
+        <text
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
+           y="473.87723"
+           x="241.95143"
+           id="text5464">
+          <tspan
+             id="tspan5466"
+             y="473.87723"
+             x="241.95143"
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif">α</tspan>
+        </text>
+        <text
+           style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
+           y="476.73077"
+           x="252.01764"
+           id="text5468">
+          <tspan
+             id="tspan5470"
+             y="476.73077"
+             x="252.01764"
+             style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif">2m+1</tspan>
+        </text>
+      </g>
+      <g
+         transform="translate(12.334107,9.3364292)"
+         id="g5746">
+        <text
+           id="text5474"
+           x="273.056"
+           y="524.00214"
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif">
+          <tspan
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
+             x="273.056"
+             y="524.00214"
+             id="tspan5476">α</tspan>
+        </text>
+        <text
+           id="text5478"
+           x="283.12222"
+           y="526.85571"
+           style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif">
+          <tspan
+             style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
+             x="283.12222"
+             y="526.85571"
+             id="tspan5480">2m</tspan>
+        </text>
+      </g>
+      <g
+         transform="translate(28,-4)"
+         id="g5734">
+        <text
+           id="text5442"
+           x="263.78772"
+           y="501.87332"
+           style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif">
+          <tspan
+             style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
+             x="263.78772"
+             y="501.87332"
+             id="tspan5444">i</tspan>
+        </text>
+        <text
+           id="text5446"
+           x="269.42587"
+           y="504.32712"
+           style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif">
+          <tspan
+             style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Bitstream Vera Serif;-inkscape-font-specification:Bitstream Vera Serif"
+             x="269.42587"
+             y="504.32712"
+             id="tspan5448">2m</tspan>
+        </text>
+      </g>
+    </g>
+  </g>
+</svg>

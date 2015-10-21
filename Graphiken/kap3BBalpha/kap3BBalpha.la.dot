@@ -1,0 +1,10 @@
+digraph Vergleichsbaum1
+	{
+		rankdir = TB;
+        V [label="v"];
+        Tl [label="$T_l$", shape=triangle];
+        Tr [label="$T_r$", shape=triangle];
+
+		V -> Tl [arrowhead=none, arrowtail=none];
+		V -> Tr [arrowhead=none, arrowtail=none];
+	}
