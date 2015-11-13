@@ -271,14 +271,14 @@ Nehmen wir an das Universum $\mathcal{U}$ ist ein linear geordnetes Intervall re
 \end{figure}
 
 Die Interpolationssuche funktioniert genau wie die Binärsuche, bis auf die Auswahl des Pivotelements $a$. Als Pivotelement wählen wir das $k$-te Element der Folge $S$, wobei $k$ wie folgt definiert ist:
-\[ k=l-1 + \left\lfloor \frac{a-S[l-1]}{S[r+1]-S[l-1]} \cdot (r-l+1) \right\rfloor \]
+\[ k=l-1 + \left\lceil \frac{a-S[l-1]}{S[r+1]-S[l-1]} \cdot (r-l+1) \right\rceil \]
 Wir versuchen also das Element als Pivoelement zu wählen, bei dem wir bei perfekter Gleichverteilung das gesuchte Element erwarten würden.
 
 % 0......S[l-1].S[l]..........S[r].S[r+1]...........1
 %           (_________________________)
 %                      ^a
 
-%$k=l-1 + \left\lfloor \frac{a-S[l-1]}{S[r+1]-S[l-1]} \cdot (r-l+1) \right\rfloor$
+%$k=l-1 + \left\lceil \frac{a-S[l-1]}{S[r+1]-S[l-1]} \cdot (r-l+1) \right\rceil$
 
 Möchte man die Rekursionsfolge aufstellen, um die Laufzeit zu berechnen, so sollte man für $S[0] = 0$ und $S[n+1] = 1$ setzen.
 
